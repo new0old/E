@@ -5,10 +5,7 @@
 
 Designed By:
 
-Ashu Singh (19BCE10052)
-Jenish Jagdishbhai khunt (19BCE10040)
-Ayush Parmar(19BCG10047)
-Anshuman Raina(19BAI10151)
+Anshuman Raina
 
 
 1. Introduction
